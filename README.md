@@ -6,7 +6,3 @@ The function verifies the input, as it cannot be more than the range defined or 
 ## Goal
 
 The purpose of this project is to practice Python with a simple game.
-
-## TODO:
-Implement the hint version  
-    *Your guess is smaller / bigger than the computer choice
