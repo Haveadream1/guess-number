@@ -1,6 +1,7 @@
 # Guess the correct number
 
-The main function will randomly choose a number between 0 and 15, and our goal is to guess the correct one in a maximum of 5 tries.
+The main function will randomly choose a number between your defined range, and our goal is to guess the correct one in a maximum of 5 tries.  
+The function verifies the input, as it cannot be more than the range defined or a negative.
 
 ## Goal
 
